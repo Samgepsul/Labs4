@@ -66,7 +66,7 @@ static void RenderMenu()
     Console.WriteLine("Выберите действие");
     Console.WriteLine("1. Добавить слово вручную");
     Console.WriteLine("2. Импорт слов из файла JSON");
-    Console.WriteLine("3. Испорт слов из файла XMl");
+    Console.WriteLine("3. Импорт слов из файла XMl");
     Console.WriteLine("4. Экспорт данных в JSON");
     Console.WriteLine("5. Экспорт данных в XML");
     Console.WriteLine("6. Поиск однокоренных слов по корню");
